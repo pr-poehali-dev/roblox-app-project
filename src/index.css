@@ -6,10 +6,10 @@
 
 @layer base {
   :root {
-    --background: 0 0% 10%;
+    --background: 0 0% 10.2%;
     --foreground: 0 0% 100%;
 
-    --card: 0 0% 14%;
+    --card: 0 0% 12%;
     --card-foreground: 0 0% 100%;
 
     --popover: 0 0% 14%;
